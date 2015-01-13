@@ -164,6 +164,12 @@ a:after {
 	padding-bottom: 20px;
 }
 
+#footer #impressum {
+	text-align: center;
+	font-size: 85%;
+	color: #999;
+}
+
 
 /* +++++ Color Wraps / Blog Page +++++ */
 
